@@ -5,3 +5,4 @@ fouth line in file1
 just to see 1
 just to see 3 pass
 try reset HEAD on File1
+written while on auth branch
