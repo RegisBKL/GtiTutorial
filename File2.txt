@@ -1,0 +1,2 @@
+first line in file 2
+second line in file 2
